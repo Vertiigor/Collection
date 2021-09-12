@@ -1,0 +1,6 @@
+C:\Projects\Collections\Collections\bin\Debug\Collections.dll
+C:\Projects\Collections\Collections\bin\Debug\Collections.pdb
+C:\Projects\Collections\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Projects\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Projects\Collections\Collections\obj\Debug\Collections.dll
+C:\Projects\Collections\Collections\obj\Debug\Collections.pdb
